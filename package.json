@@ -21,7 +21,8 @@
     "express": "^4.17.1",
     "leancloud-storage": "^3.0.0",
     "leanengine": "^3.0.0",
-    "nodemailer": "^4.0.1"
+    "nodemailer": "^4.0.1",
+    "undici": "^5.28.4"
   },
   "devDependencies": {
     "clean-css-cli": "^4.3.0",
